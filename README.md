@@ -1,2 +1,4 @@
 # practice
- ex 1
+ A practice repository 
+#README
+This is my first repository!
